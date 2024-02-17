@@ -40,6 +40,12 @@ title: Publications
 
 - [2] Transmission mechanism for liquid suction and vacuuming of air content measurement device (CN107061667A, Issue Date: 12 September 2019)<br>
 
+---
+
+## Software
+
+- [1] Motor pump digital twin and intelligent maintenance platform V1.0<br>
+
 
 
 
