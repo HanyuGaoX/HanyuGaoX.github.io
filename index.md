@@ -8,7 +8,7 @@ layout: page
 
 Hi! Here is **Hanyu Gao (Henry Gao)**.
 
-I currently working toward the Ph.D. degree in Mechanical Engineering at the State Key Laboratory of Fluid Power and Mechatronic Systems, **Zhejiang University**, advised by [Prof. Xiaoping Ouyang](https://person.zju.edu.cn/0007202). I received the B.S. degree in Aircraft Manufacturing Engineering from Nanjing University of Aeronautics and Astronautics in 2017 and M.S. degree in Mechatronic Engineering from Zhejiang University in 2020. My research interests include piston pump, digital twin, and machine learning.
+I am currently working toward the Ph.D. degree in Mechanical Engineering at the State Key Laboratory of Fluid Power and Mechatronic Systems, **Zhejiang University**, advised by [Prof. Xiaoping Ouyang](https://person.zju.edu.cn/0007202). I received the B.S. degree in Aircraft Manufacturing Engineering from Nanjing University of Aeronautics and Astronautics in 2017 and M.S. degree in Mechatronic Engineering from Zhejiang University in 2020. My research interests include piston pump, digital twin, and machine learning.
 
 Please feel free to contact me if you are interested in any aspect of me, I would love to chat and collaborate, please email me at henrygao@zju.edu.cn
 
