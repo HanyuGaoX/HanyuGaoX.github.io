@@ -4,23 +4,25 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://hanyugaox.github.io/images/hanyugao.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Hi! Here is **Hanyu Gao (Henry Gao)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
+I currently working toward the Ph.D. degree in Mechanical Engineering at the State Key Laboratory of Fluid Power and Mechatronic Systems, **Zhejiang University**, advised by [Prof. Xiaoping Ouyang](https://person.zju.edu.cn/0007202). I received the B.S. degree in Aircraft Manufacturing Engineering from Nanjing University of Aeronautics and Astronautics in 2017 and M.S. degree in Mechatronic Engineering from Zhejiang University in 2020. My research interests include piston pump, digital twin, and machine learning.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+Please feel free to contact me if you are interested in any aspect of me, I would love to chat and collaborate, please email me at henrygao@zju.edu.cn
+
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Postdoctoral position to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Sep 2021 - June 2025:** Zhejiang University (PhD)
+- **Sep 2020 - June 2021:** Zhejiang University (RA)
+- **Sep 2017 - Nov 2020:** Zhejiang University (MSc)
+- **Sep 2013 - Nov 2017:** Nanjing University of Aeronautics and Astronautics (BSc)
 
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+Expected to obtain PhD degree and graduate in June 2025. Looking for Postdoctoral position after that.
 
 <br>
 
@@ -28,7 +30,7 @@ Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Look
 
 ## Research Interests
 
-- Internet of Everything (IoE)
+- Digital Twin (IoE)
 - Industrial Automation
 - Network and Cybersecurity
 - Applied Machine Learning
