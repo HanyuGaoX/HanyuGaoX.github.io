@@ -28,7 +28,7 @@ title: Awards
 
 - Dec 2018：Graduate of Merit/Triple A graduate (Zhejiang University) 
 - Aug 2023：Award of Honor for Graduate (Zhejiang University) 
-- May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China 
+
 
 
 ## Services
