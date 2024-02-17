@@ -34,8 +34,11 @@ title: Awards
 ## Services
 
 - Feb. 2024 - Present：ASME Student Membership
+- Apr. 2022：Volunteer of The 10th International Conference on Fluid Power Transmission and Control - ICFP 2021
+April 11-13, 2021, Hangzhou, China (https://www.icfp-2021.org)
+- Aug. 2020：Volunteer of the first academic seminar of the Intelligent Fluid Control Professional Committee of the Fluid Transmission and Control Branch of the Chinese Mechanical Engineering Society
 - Sept. 2017 - Oct. 2018：President of Graduate Student Union of School of Mechanical Engineering, Zhejiang University
 - July 2014 - Aug. 2014：Volunteer of The 2nd Youth Olympic Games, Nanjing   
-- Apr. 2022：fmpc2022会议志愿者
-- Aug. 2020：第三届流控分会志愿者<br>
+
+<br>
  
